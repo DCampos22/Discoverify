@@ -39,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the main challenges was understanding the structure of the API response from the countries API. Initially, it took some time to correctly access the attributes like languages, region, timezones, and flag images. Debugging the structure of the JSON response and ensuring the right attributes were extracted was crucial.
 
 ## License
 
